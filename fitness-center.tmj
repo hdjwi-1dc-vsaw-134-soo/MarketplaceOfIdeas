@@ -342,7 +342,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"fintess-center.png"
+         "value":"fitness-center.png"
         }, 
         {
          "name":"mapName",

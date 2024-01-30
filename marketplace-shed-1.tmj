@@ -290,7 +290,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"shed-1.png"
+         "value":"marketplace-shed-1.png"
         }, 
         {
          "name":"mapName",
