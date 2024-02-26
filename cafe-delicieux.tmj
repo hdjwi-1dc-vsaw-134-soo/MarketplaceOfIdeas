@@ -19879,7 +19879,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "marketplace-of-ideas.tmj#entry-from-cafe-delicieux"
+              "value": "https://play.workadventu.re/@/workspacesky/marketplace-of-ideas/marketplace-of-ideas#entry-from-cafe-delicieux"
             }
           ],
           "rotation": 0,
@@ -23874,7 +23874,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "cafe-delicieux-chunk-1-9e841f4d.png",
+      "image": "cafe-delicieux-chunk-1-243d7396.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24190,7 +24190,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "cafe-delicieux-chunk-2-9e841f4d.png",
+      "image": "cafe-delicieux-chunk-2-243d7396.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24205,7 +24205,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "cafe-delicieux-chunk-3-9e841f4d.png",
+      "image": "cafe-delicieux-chunk-3-243d7396.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24220,7 +24220,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "cafe-delicieux-chunk-4-9e841f4d.png",
+      "image": "cafe-delicieux-chunk-4-243d7396.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24235,7 +24235,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "cafe-delicieux-chunk-5-9e841f4d.png",
+      "image": "cafe-delicieux-chunk-5-243d7396.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24250,7 +24250,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "cafe-delicieux-chunk-6-9e841f4d.png",
+      "image": "cafe-delicieux-chunk-6-243d7396.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24265,7 +24265,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "cafe-delicieux-chunk-7-9e841f4d.png",
+      "image": "cafe-delicieux-chunk-7-243d7396.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24280,7 +24280,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "cafe-delicieux-chunk-8-9e841f4d.png",
+      "image": "cafe-delicieux-chunk-8-243d7396.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24295,7 +24295,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "cafe-delicieux-chunk-9-9e841f4d.png",
+      "image": "cafe-delicieux-chunk-9-243d7396.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24310,7 +24310,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "cafe-delicieux-chunk-10-9e841f4d.png",
+      "image": "cafe-delicieux-chunk-10-243d7396.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24325,7 +24325,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "cafe-delicieux-chunk-11-9e841f4d.png",
+      "image": "cafe-delicieux-chunk-11-243d7396.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24340,7 +24340,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "cafe-delicieux-chunk-12-9e841f4d.png",
+      "image": "cafe-delicieux-chunk-12-243d7396.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24355,7 +24355,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "cafe-delicieux-chunk-13-9e841f4d.png",
+      "image": "cafe-delicieux-chunk-13-243d7396.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24370,7 +24370,7 @@
     {
       "columns": 16,
       "firstgid": 3329,
-      "image": "cafe-delicieux-chunk-14-9e841f4d.png",
+      "image": "cafe-delicieux-chunk-14-243d7396.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24385,7 +24385,7 @@
     {
       "columns": 16,
       "firstgid": 3585,
-      "image": "cafe-delicieux-chunk-15-9e841f4d.png",
+      "image": "cafe-delicieux-chunk-15-243d7396.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24400,7 +24400,7 @@
     {
       "columns": 16,
       "firstgid": 3841,
-      "image": "cafe-delicieux-chunk-16-9e841f4d.png",
+      "image": "cafe-delicieux-chunk-16-243d7396.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24415,7 +24415,7 @@
     {
       "columns": 6,
       "firstgid": 4097,
-      "image": "cafe-delicieux-chunk-17-9e841f4d.png",
+      "image": "cafe-delicieux-chunk-17-243d7396.png",
       "imageheight": 192,
       "imagewidth": 192,
       "margin": 0,

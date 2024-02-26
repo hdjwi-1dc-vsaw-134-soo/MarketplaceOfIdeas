@@ -18552,7 +18552,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "marketplace-of-ideas.tmj#entry-from-study-hall-a"
+              "value": "https://play.workadventu.re/@/workspacesky/marketplace-of-ideas/marketplace-of-ideas#entry-from-study-hall-a"
             }
           ],
           "rotation": 0,
@@ -22277,7 +22277,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "study-hall-a-chunk-1-3fde270f.png",
+      "image": "study-hall-a-chunk-1-f6a6a6ff.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -22593,7 +22593,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "study-hall-a-chunk-2-3fde270f.png",
+      "image": "study-hall-a-chunk-2-f6a6a6ff.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -22608,7 +22608,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "study-hall-a-chunk-3-3fde270f.png",
+      "image": "study-hall-a-chunk-3-f6a6a6ff.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -22623,7 +22623,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "study-hall-a-chunk-4-3fde270f.png",
+      "image": "study-hall-a-chunk-4-f6a6a6ff.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -22638,7 +22638,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "study-hall-a-chunk-5-3fde270f.png",
+      "image": "study-hall-a-chunk-5-f6a6a6ff.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -22653,7 +22653,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "study-hall-a-chunk-6-3fde270f.png",
+      "image": "study-hall-a-chunk-6-f6a6a6ff.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -22668,7 +22668,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "study-hall-a-chunk-7-3fde270f.png",
+      "image": "study-hall-a-chunk-7-f6a6a6ff.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -22683,7 +22683,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "study-hall-a-chunk-8-3fde270f.png",
+      "image": "study-hall-a-chunk-8-f6a6a6ff.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -22698,7 +22698,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "study-hall-a-chunk-9-3fde270f.png",
+      "image": "study-hall-a-chunk-9-f6a6a6ff.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -22713,7 +22713,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "study-hall-a-chunk-10-3fde270f.png",
+      "image": "study-hall-a-chunk-10-f6a6a6ff.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -22728,7 +22728,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "study-hall-a-chunk-11-3fde270f.png",
+      "image": "study-hall-a-chunk-11-f6a6a6ff.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -22743,7 +22743,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "study-hall-a-chunk-12-3fde270f.png",
+      "image": "study-hall-a-chunk-12-f6a6a6ff.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -22758,7 +22758,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "study-hall-a-chunk-13-3fde270f.png",
+      "image": "study-hall-a-chunk-13-f6a6a6ff.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -22773,7 +22773,7 @@
     {
       "columns": 16,
       "firstgid": 3329,
-      "image": "study-hall-a-chunk-14-3fde270f.png",
+      "image": "study-hall-a-chunk-14-f6a6a6ff.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -22788,7 +22788,7 @@
     {
       "columns": 16,
       "firstgid": 3585,
-      "image": "study-hall-a-chunk-15-3fde270f.png",
+      "image": "study-hall-a-chunk-15-f6a6a6ff.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -22803,7 +22803,7 @@
     {
       "columns": 16,
       "firstgid": 3841,
-      "image": "study-hall-a-chunk-16-3fde270f.png",
+      "image": "study-hall-a-chunk-16-f6a6a6ff.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -22818,7 +22818,7 @@
     {
       "columns": 16,
       "firstgid": 4097,
-      "image": "study-hall-a-chunk-17-3fde270f.png",
+      "image": "study-hall-a-chunk-17-f6a6a6ff.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -22833,7 +22833,7 @@
     {
       "columns": 8,
       "firstgid": 4353,
-      "image": "study-hall-a-chunk-18-3fde270f.png",
+      "image": "study-hall-a-chunk-18-f6a6a6ff.png",
       "imageheight": 256,
       "imagewidth": 256,
       "margin": 0,

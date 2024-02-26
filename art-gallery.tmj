@@ -9186,7 +9186,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "marketplace-of-ideas.tmj#entry-from-art-gallery"
+              "value": "https://play.workadventu.re/@/workspacesky/marketplace-of-ideas/marketplace-of-ideas#entry-from-art-gallery"
             }
           ],
           "rotation": 0,
@@ -11501,7 +11501,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "art-gallery-chunk-1-2ef54464.png",
+      "image": "art-gallery-chunk-1-9d727d37.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11817,7 +11817,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "art-gallery-chunk-2-2ef54464.png",
+      "image": "art-gallery-chunk-2-9d727d37.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11832,7 +11832,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "art-gallery-chunk-3-2ef54464.png",
+      "image": "art-gallery-chunk-3-9d727d37.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11847,7 +11847,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "art-gallery-chunk-4-2ef54464.png",
+      "image": "art-gallery-chunk-4-9d727d37.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11862,7 +11862,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "art-gallery-chunk-5-2ef54464.png",
+      "image": "art-gallery-chunk-5-9d727d37.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11877,7 +11877,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "art-gallery-chunk-6-2ef54464.png",
+      "image": "art-gallery-chunk-6-9d727d37.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11892,7 +11892,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "art-gallery-chunk-7-2ef54464.png",
+      "image": "art-gallery-chunk-7-9d727d37.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11907,7 +11907,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "art-gallery-chunk-8-2ef54464.png",
+      "image": "art-gallery-chunk-8-9d727d37.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11922,7 +11922,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "art-gallery-chunk-9-2ef54464.png",
+      "image": "art-gallery-chunk-9-9d727d37.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11937,7 +11937,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "art-gallery-chunk-10-2ef54464.png",
+      "image": "art-gallery-chunk-10-9d727d37.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11952,7 +11952,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "art-gallery-chunk-11-2ef54464.png",
+      "image": "art-gallery-chunk-11-9d727d37.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11967,7 +11967,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "art-gallery-chunk-12-2ef54464.png",
+      "image": "art-gallery-chunk-12-9d727d37.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11982,7 +11982,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "art-gallery-chunk-13-2ef54464.png",
+      "image": "art-gallery-chunk-13-9d727d37.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -11997,7 +11997,7 @@
     {
       "columns": 16,
       "firstgid": 3329,
-      "image": "art-gallery-chunk-14-2ef54464.png",
+      "image": "art-gallery-chunk-14-9d727d37.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12012,7 +12012,7 @@
     {
       "columns": 16,
       "firstgid": 3585,
-      "image": "art-gallery-chunk-15-2ef54464.png",
+      "image": "art-gallery-chunk-15-9d727d37.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12027,7 +12027,7 @@
     {
       "columns": 16,
       "firstgid": 3841,
-      "image": "art-gallery-chunk-16-2ef54464.png",
+      "image": "art-gallery-chunk-16-9d727d37.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12042,7 +12042,7 @@
     {
       "columns": 16,
       "firstgid": 4097,
-      "image": "art-gallery-chunk-17-2ef54464.png",
+      "image": "art-gallery-chunk-17-9d727d37.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12057,7 +12057,7 @@
     {
       "columns": 16,
       "firstgid": 4353,
-      "image": "art-gallery-chunk-18-2ef54464.png",
+      "image": "art-gallery-chunk-18-9d727d37.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12072,7 +12072,7 @@
     {
       "columns": 16,
       "firstgid": 4609,
-      "image": "art-gallery-chunk-19-2ef54464.png",
+      "image": "art-gallery-chunk-19-9d727d37.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12087,7 +12087,7 @@
     {
       "columns": 16,
       "firstgid": 4865,
-      "image": "art-gallery-chunk-20-2ef54464.png",
+      "image": "art-gallery-chunk-20-9d727d37.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12102,7 +12102,7 @@
     {
       "columns": 16,
       "firstgid": 5121,
-      "image": "art-gallery-chunk-21-2ef54464.png",
+      "image": "art-gallery-chunk-21-9d727d37.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12117,7 +12117,7 @@
     {
       "columns": 16,
       "firstgid": 5377,
-      "image": "art-gallery-chunk-22-2ef54464.png",
+      "image": "art-gallery-chunk-22-9d727d37.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12132,7 +12132,7 @@
     {
       "columns": 16,
       "firstgid": 5633,
-      "image": "art-gallery-chunk-23-2ef54464.png",
+      "image": "art-gallery-chunk-23-9d727d37.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12147,7 +12147,7 @@
     {
       "columns": 16,
       "firstgid": 5889,
-      "image": "art-gallery-chunk-24-2ef54464.png",
+      "image": "art-gallery-chunk-24-9d727d37.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -12162,7 +12162,7 @@
     {
       "columns": 16,
       "firstgid": 6145,
-      "image": "art-gallery-chunk-25-2ef54464.png",
+      "image": "art-gallery-chunk-25-9d727d37.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,

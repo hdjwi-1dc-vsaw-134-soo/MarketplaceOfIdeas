@@ -12702,7 +12702,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "marketplace-of-ideas.tmj#entry-from-club-house"
+              "value": "https://play.workadventu.re/@/workspacesky/marketplace-of-ideas/marketplace-of-ideas#entry-from-club-house"
             }
           ],
           "rotation": 0,
@@ -15257,7 +15257,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "club-house-chunk-1-fae4c688.png",
+      "image": "club-house-chunk-1-d3bdcaa9.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15373,7 +15373,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "club-house-chunk-2-fae4c688.png",
+      "image": "club-house-chunk-2-d3bdcaa9.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15388,7 +15388,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "club-house-chunk-3-fae4c688.png",
+      "image": "club-house-chunk-3-d3bdcaa9.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15403,7 +15403,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "club-house-chunk-4-fae4c688.png",
+      "image": "club-house-chunk-4-d3bdcaa9.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15418,7 +15418,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "club-house-chunk-5-fae4c688.png",
+      "image": "club-house-chunk-5-d3bdcaa9.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15433,7 +15433,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "club-house-chunk-6-fae4c688.png",
+      "image": "club-house-chunk-6-d3bdcaa9.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15448,7 +15448,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "club-house-chunk-7-fae4c688.png",
+      "image": "club-house-chunk-7-d3bdcaa9.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15463,7 +15463,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "club-house-chunk-8-fae4c688.png",
+      "image": "club-house-chunk-8-d3bdcaa9.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15478,7 +15478,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "club-house-chunk-9-fae4c688.png",
+      "image": "club-house-chunk-9-d3bdcaa9.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15493,7 +15493,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "club-house-chunk-10-fae4c688.png",
+      "image": "club-house-chunk-10-d3bdcaa9.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15508,7 +15508,7 @@
     {
       "columns": 7,
       "firstgid": 2561,
-      "image": "club-house-chunk-11-fae4c688.png",
+      "image": "club-house-chunk-11-d3bdcaa9.png",
       "imageheight": 224,
       "imagewidth": 224,
       "margin": 0,

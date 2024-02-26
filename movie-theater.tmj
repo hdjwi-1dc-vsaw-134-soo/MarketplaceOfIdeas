@@ -37106,7 +37106,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "marketplace-of-ideas.tmj#entry-from-movie-theater"
+              "value": "https://play.workadventu.re/@/workspacesky/marketplace-of-ideas/marketplace-of-ideas#entry-from-movie-theater"
             }
           ],
           "rotation": 0,
@@ -37124,7 +37124,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "movie-theater.tmj#entry/entry-1"
+              "value": "https://play.workadventu.re/@/workspacesky/marketplace-of-ideas/marketplace-of-ideas---movie-theather#entry/entry-1"
             }
           ],
           "rotation": 0,
@@ -37142,7 +37142,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "movie-theater.tmj#entry/entry-2"
+              "value": "https://play.workadventu.re/@/workspacesky/marketplace-of-ideas/marketplace-of-ideas---movie-theather#entry/entry-2"
             }
           ],
           "rotation": 0,
@@ -37160,7 +37160,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "movie-theater.tmj#entry/entry-3"
+              "value": "https://play.workadventu.re/@/workspacesky/marketplace-of-ideas/marketplace-of-ideas---movie-theather#entry/entry-3"
             }
           ],
           "rotation": 0,
@@ -37178,7 +37178,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "movie-theater.tmj#entry/entry-4"
+              "value": "https://play.workadventu.re/@/workspacesky/marketplace-of-ideas/marketplace-of-ideas---movie-theather#entry/entry-4"
             }
           ],
           "rotation": 0,
@@ -40903,7 +40903,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "movie-theater-chunk-1-b596027f.png",
+      "image": "movie-theater-chunk-1-b4134fa0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41099,7 +41099,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "movie-theater-chunk-2-b596027f.png",
+      "image": "movie-theater-chunk-2-b4134fa0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41114,7 +41114,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "movie-theater-chunk-3-b596027f.png",
+      "image": "movie-theater-chunk-3-b4134fa0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41129,7 +41129,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "movie-theater-chunk-4-b596027f.png",
+      "image": "movie-theater-chunk-4-b4134fa0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41144,7 +41144,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "movie-theater-chunk-5-b596027f.png",
+      "image": "movie-theater-chunk-5-b4134fa0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41159,7 +41159,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "movie-theater-chunk-6-b596027f.png",
+      "image": "movie-theater-chunk-6-b4134fa0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41174,7 +41174,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "movie-theater-chunk-7-b596027f.png",
+      "image": "movie-theater-chunk-7-b4134fa0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41189,7 +41189,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "movie-theater-chunk-8-b596027f.png",
+      "image": "movie-theater-chunk-8-b4134fa0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41204,7 +41204,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "movie-theater-chunk-9-b596027f.png",
+      "image": "movie-theater-chunk-9-b4134fa0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41219,7 +41219,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "movie-theater-chunk-10-b596027f.png",
+      "image": "movie-theater-chunk-10-b4134fa0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41234,7 +41234,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "movie-theater-chunk-11-b596027f.png",
+      "image": "movie-theater-chunk-11-b4134fa0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41249,7 +41249,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "movie-theater-chunk-12-b596027f.png",
+      "image": "movie-theater-chunk-12-b4134fa0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41264,7 +41264,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "movie-theater-chunk-13-b596027f.png",
+      "image": "movie-theater-chunk-13-b4134fa0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41279,7 +41279,7 @@
     {
       "columns": 16,
       "firstgid": 3329,
-      "image": "movie-theater-chunk-14-b596027f.png",
+      "image": "movie-theater-chunk-14-b4134fa0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41294,7 +41294,7 @@
     {
       "columns": 16,
       "firstgid": 3585,
-      "image": "movie-theater-chunk-15-b596027f.png",
+      "image": "movie-theater-chunk-15-b4134fa0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41309,7 +41309,7 @@
     {
       "columns": 16,
       "firstgid": 3841,
-      "image": "movie-theater-chunk-16-b596027f.png",
+      "image": "movie-theater-chunk-16-b4134fa0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41324,7 +41324,7 @@
     {
       "columns": 16,
       "firstgid": 4097,
-      "image": "movie-theater-chunk-17-b596027f.png",
+      "image": "movie-theater-chunk-17-b4134fa0.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41339,7 +41339,7 @@
     {
       "columns": 12,
       "firstgid": 4353,
-      "image": "movie-theater-chunk-18-b596027f.png",
+      "image": "movie-theater-chunk-18-b4134fa0.png",
       "imageheight": 384,
       "imagewidth": 384,
       "margin": 0,

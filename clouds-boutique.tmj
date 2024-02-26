@@ -10902,7 +10902,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "marketplace-of-ideas.tmj#entry-from-clouds-boutique"
+              "value": "https://play.workadventu.re/@/workspacesky/marketplace-of-ideas/marketplace-of-ideas#entry-from-clouds-boutique"
             }
           ],
           "rotation": 0,
@@ -13097,7 +13097,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "clouds-boutique-chunk-1-df42737a.png",
+      "image": "clouds-boutique-chunk-1-90a19cb6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13253,7 +13253,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "clouds-boutique-chunk-2-df42737a.png",
+      "image": "clouds-boutique-chunk-2-90a19cb6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13268,7 +13268,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "clouds-boutique-chunk-3-df42737a.png",
+      "image": "clouds-boutique-chunk-3-90a19cb6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13283,7 +13283,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "clouds-boutique-chunk-4-df42737a.png",
+      "image": "clouds-boutique-chunk-4-90a19cb6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13298,7 +13298,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "clouds-boutique-chunk-5-df42737a.png",
+      "image": "clouds-boutique-chunk-5-90a19cb6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13313,7 +13313,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "clouds-boutique-chunk-6-df42737a.png",
+      "image": "clouds-boutique-chunk-6-90a19cb6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13328,7 +13328,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "clouds-boutique-chunk-7-df42737a.png",
+      "image": "clouds-boutique-chunk-7-90a19cb6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13343,7 +13343,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "clouds-boutique-chunk-8-df42737a.png",
+      "image": "clouds-boutique-chunk-8-90a19cb6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13358,7 +13358,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "clouds-boutique-chunk-9-df42737a.png",
+      "image": "clouds-boutique-chunk-9-90a19cb6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13373,7 +13373,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "clouds-boutique-chunk-10-df42737a.png",
+      "image": "clouds-boutique-chunk-10-90a19cb6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13388,7 +13388,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "clouds-boutique-chunk-11-df42737a.png",
+      "image": "clouds-boutique-chunk-11-90a19cb6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13403,7 +13403,7 @@
     {
       "columns": 12,
       "firstgid": 2817,
-      "image": "clouds-boutique-chunk-12-df42737a.png",
+      "image": "clouds-boutique-chunk-12-90a19cb6.png",
       "imageheight": 384,
       "imagewidth": 384,
       "margin": 0,

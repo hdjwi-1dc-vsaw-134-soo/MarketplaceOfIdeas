@@ -19283,7 +19283,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "marketplace-of-ideas.tmj#entry-from-blueberry-dorm"
+              "value": "https://play.workadventu.re/@/workspacesky/marketplace-of-ideas/marketplace-of-ideas#entry-from-blueberry-dorm"
             }
           ],
           "rotation": 0,
@@ -31270,7 +31270,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "blueberry-dorm-chunk-1-58fdf180.png",
+      "image": "blueberry-dorm-chunk-1-5bd1a0eb.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -31386,7 +31386,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "blueberry-dorm-chunk-2-58fdf180.png",
+      "image": "blueberry-dorm-chunk-2-5bd1a0eb.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -31401,7 +31401,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "blueberry-dorm-chunk-3-58fdf180.png",
+      "image": "blueberry-dorm-chunk-3-5bd1a0eb.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -31416,7 +31416,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "blueberry-dorm-chunk-4-58fdf180.png",
+      "image": "blueberry-dorm-chunk-4-5bd1a0eb.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -31431,7 +31431,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "blueberry-dorm-chunk-5-58fdf180.png",
+      "image": "blueberry-dorm-chunk-5-5bd1a0eb.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -31446,7 +31446,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "blueberry-dorm-chunk-6-58fdf180.png",
+      "image": "blueberry-dorm-chunk-6-5bd1a0eb.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -31461,7 +31461,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "blueberry-dorm-chunk-7-58fdf180.png",
+      "image": "blueberry-dorm-chunk-7-5bd1a0eb.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -31476,7 +31476,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "blueberry-dorm-chunk-8-58fdf180.png",
+      "image": "blueberry-dorm-chunk-8-5bd1a0eb.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -31491,7 +31491,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "blueberry-dorm-chunk-9-58fdf180.png",
+      "image": "blueberry-dorm-chunk-9-5bd1a0eb.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -31506,7 +31506,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "blueberry-dorm-chunk-10-58fdf180.png",
+      "image": "blueberry-dorm-chunk-10-5bd1a0eb.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -31521,7 +31521,7 @@
     {
       "columns": 12,
       "firstgid": 2561,
-      "image": "blueberry-dorm-chunk-11-58fdf180.png",
+      "image": "blueberry-dorm-chunk-11-5bd1a0eb.png",
       "imageheight": 384,
       "imagewidth": 384,
       "margin": 0,
@@ -31555,7 +31555,7 @@
     {
       "name": "mapName",
       "type": "string",
-      "value": "MOI - Blueberry Dorm"
+      "value": "Marketplace of Ideas - Blueberry Dorm"
     },
     {
       "name": "tilesetCopyright",

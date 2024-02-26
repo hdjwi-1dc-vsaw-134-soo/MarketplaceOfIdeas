@@ -16502,7 +16502,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "marketplace-of-ideas.tmj#entry-from-research-center"
+              "value": "https://play.workadventu.re/@/workspacesky/marketplace-of-ideas/marketplace-of-ideas#entry-from-research-center"
             }
           ],
           "rotation": 0,
@@ -19817,7 +19817,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "research-center-chunk-1-d5a10479.png",
+      "image": "research-center-chunk-1-27d7f96e.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -20173,7 +20173,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "research-center-chunk-2-d5a10479.png",
+      "image": "research-center-chunk-2-27d7f96e.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -20188,7 +20188,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "research-center-chunk-3-d5a10479.png",
+      "image": "research-center-chunk-3-27d7f96e.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -20203,7 +20203,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "research-center-chunk-4-d5a10479.png",
+      "image": "research-center-chunk-4-27d7f96e.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -20218,7 +20218,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "research-center-chunk-5-d5a10479.png",
+      "image": "research-center-chunk-5-27d7f96e.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -20233,7 +20233,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "research-center-chunk-6-d5a10479.png",
+      "image": "research-center-chunk-6-27d7f96e.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -20248,7 +20248,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "research-center-chunk-7-d5a10479.png",
+      "image": "research-center-chunk-7-27d7f96e.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -20263,7 +20263,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "research-center-chunk-8-d5a10479.png",
+      "image": "research-center-chunk-8-27d7f96e.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -20278,7 +20278,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "research-center-chunk-9-d5a10479.png",
+      "image": "research-center-chunk-9-27d7f96e.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -20293,7 +20293,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "research-center-chunk-10-d5a10479.png",
+      "image": "research-center-chunk-10-27d7f96e.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -20308,7 +20308,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "research-center-chunk-11-d5a10479.png",
+      "image": "research-center-chunk-11-27d7f96e.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -20323,7 +20323,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "research-center-chunk-12-d5a10479.png",
+      "image": "research-center-chunk-12-27d7f96e.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -20338,7 +20338,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "research-center-chunk-13-d5a10479.png",
+      "image": "research-center-chunk-13-27d7f96e.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -20353,7 +20353,7 @@
     {
       "columns": 3,
       "firstgid": 3329,
-      "image": "research-center-chunk-14-d5a10479.png",
+      "image": "research-center-chunk-14-27d7f96e.png",
       "imageheight": 96,
       "imagewidth": 96,
       "margin": 0,

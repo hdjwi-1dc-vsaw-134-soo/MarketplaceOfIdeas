@@ -15679,7 +15679,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "marketplace-of-ideas.tmj#entry-from-fitness-center"
+              "value": "https://play.workadventu.re/@/workspacesky/marketplace-of-ideas/marketplace-of-ideas#entry-from-fitness-center"
             }
           ],
           "rotation": 0,
@@ -18834,7 +18834,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "fitness-center-chunk-1-701527a1.png",
+      "image": "fitness-center-chunk-1-daad275c.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18990,7 +18990,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "fitness-center-chunk-2-701527a1.png",
+      "image": "fitness-center-chunk-2-daad275c.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19005,7 +19005,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "fitness-center-chunk-3-701527a1.png",
+      "image": "fitness-center-chunk-3-daad275c.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19020,7 +19020,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "fitness-center-chunk-4-701527a1.png",
+      "image": "fitness-center-chunk-4-daad275c.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19035,7 +19035,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "fitness-center-chunk-5-701527a1.png",
+      "image": "fitness-center-chunk-5-daad275c.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19050,7 +19050,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "fitness-center-chunk-6-701527a1.png",
+      "image": "fitness-center-chunk-6-daad275c.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19065,7 +19065,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "fitness-center-chunk-7-701527a1.png",
+      "image": "fitness-center-chunk-7-daad275c.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19080,7 +19080,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "fitness-center-chunk-8-701527a1.png",
+      "image": "fitness-center-chunk-8-daad275c.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19095,7 +19095,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "fitness-center-chunk-9-701527a1.png",
+      "image": "fitness-center-chunk-9-daad275c.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19110,7 +19110,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "fitness-center-chunk-10-701527a1.png",
+      "image": "fitness-center-chunk-10-daad275c.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19125,7 +19125,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "fitness-center-chunk-11-701527a1.png",
+      "image": "fitness-center-chunk-11-daad275c.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19140,7 +19140,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "fitness-center-chunk-12-701527a1.png",
+      "image": "fitness-center-chunk-12-daad275c.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19155,7 +19155,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "fitness-center-chunk-13-701527a1.png",
+      "image": "fitness-center-chunk-13-daad275c.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19170,7 +19170,7 @@
     {
       "columns": 16,
       "firstgid": 3329,
-      "image": "fitness-center-chunk-14-701527a1.png",
+      "image": "fitness-center-chunk-14-daad275c.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19185,7 +19185,7 @@
     {
       "columns": 16,
       "firstgid": 3585,
-      "image": "fitness-center-chunk-15-701527a1.png",
+      "image": "fitness-center-chunk-15-daad275c.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19200,7 +19200,7 @@
     {
       "columns": 16,
       "firstgid": 3841,
-      "image": "fitness-center-chunk-16-701527a1.png",
+      "image": "fitness-center-chunk-16-daad275c.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19215,7 +19215,7 @@
     {
       "columns": 11,
       "firstgid": 4097,
-      "image": "fitness-center-chunk-17-701527a1.png",
+      "image": "fitness-center-chunk-17-daad275c.png",
       "imageheight": 352,
       "imagewidth": 352,
       "margin": 0,
