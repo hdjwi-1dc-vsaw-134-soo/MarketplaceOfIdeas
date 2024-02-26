@@ -211,7 +211,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"marketplace-of-ideas.tmj#entry-from-art-gallery"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/marketplace-of-ideas\/marketplace-of-ideas#entry-from-art-gallery"
                         }],
                  "rotation":0,
                  "type":"area",

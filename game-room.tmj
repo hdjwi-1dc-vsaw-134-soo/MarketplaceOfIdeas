@@ -370,7 +370,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"marketplace-of-ideas.tmj#entry-from-game-room"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/marketplace-of-ideas\/marketplace-of-ideas#entry-from-game-room"
                         }],
                  "rotation":0,
                  "type":"area",

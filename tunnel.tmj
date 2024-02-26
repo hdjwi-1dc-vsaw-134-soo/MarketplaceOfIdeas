@@ -403,7 +403,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"marketplace-of-ideas.json#entry-4"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/marketplace-of-ideas\/marketplace-of-ideas#entry-4"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -420,7 +420,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"marketplace-of-ideas.tmj#entry-3"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/marketplace-of-ideas\/marketplace-of-ideas#entry-3"
                         }],
                  "rotation":0,
                  "type":"area",

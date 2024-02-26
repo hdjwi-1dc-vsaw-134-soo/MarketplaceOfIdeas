@@ -409,7 +409,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"marketplace-of-ideas.tmj#entry-from-tutoring-center"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/marketplace-of-ideas\/marketplace-of-ideas#entry-from-tutoring-center"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -426,7 +426,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"tutoring-center-2.tmj"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/marketplace-of-ideas\/marketplace-of-ideas---tutoring-center-2"
                         }],
                  "rotation":0,
                  "type":"area",

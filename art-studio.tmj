@@ -235,7 +235,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"marketplace-of-ideas.tmj#entry-from-art-studio"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/marketplace-of-ideas\/marketplace-of-ideas#entry-from-art-studio"
                         }],
                  "rotation":0,
                  "type":"area",

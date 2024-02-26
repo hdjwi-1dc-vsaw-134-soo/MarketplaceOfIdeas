@@ -326,7 +326,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"marketplace-of-ideas.tmj#entry-from-blue-sky-studios"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/marketplace-of-ideas\/marketplace-of-ideas#entry-from-blue-sky-studios"
                         }],
                  "rotation":0,
                  "type":"area",

@@ -287,7 +287,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"marketplace-of-ideas.tmj#entry-from-cherries"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/marketplace-of-ideas\/marketplace-of-ideas#entry-from-cherries"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -369,7 +369,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"MMarketplace of Ideas - Cherries"
+         "value":"Marketplace of Ideas - Cherries"
         }, 
         {
          "name":"tilesetCopyright",

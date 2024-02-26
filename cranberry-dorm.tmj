@@ -460,7 +460,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"marketplace-of-ideas.tmj#entry-from-cranberry-dorm"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/marketplace-of-ideas\/marketplace-of-ideas#entry-from-cranberry-dorm"
                         }],
                  "rotation":0,
                  "type":"area",

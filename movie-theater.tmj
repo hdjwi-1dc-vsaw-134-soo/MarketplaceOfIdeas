@@ -591,7 +591,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"marketplace-of-ideas.tmj#entry-from-movie-theater"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/marketplace-of-ideas\/marketplace-of-ideas#entry-from-movie-theater"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -608,7 +608,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"movie-theater.tmj#entry\/entry-1"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/marketplace-of-ideas\/marketplace-of-ideas---movie-theather#entry\/entry-1"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -625,7 +625,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"movie-theater.tmj#entry\/entry-2"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/marketplace-of-ideas\/marketplace-of-ideas---movie-theather#entry\/entry-2"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -642,7 +642,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"movie-theater.tmj#entry\/entry-3"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/marketplace-of-ideas\/marketplace-of-ideas---movie-theather#entry\/entry-3"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -659,7 +659,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"movie-theater.tmj#entry\/entry-4"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/marketplace-of-ideas\/marketplace-of-ideas---movie-theather#entry\/entry-4"
                         }],
                  "rotation":0,
                  "type":"area",

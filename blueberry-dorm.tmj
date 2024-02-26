@@ -495,7 +495,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"marketplace-of-ideas.tmj#entry-from-blueberry-dorm"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/marketplace-of-ideas\/marketplace-of-ideas#entry-from-blueberry-dorm"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -752,7 +752,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"MOI - Blueberry Dorm"
+         "value":"Marketplace of Ideas - Blueberry Dorm"
         }, 
         {
          "name":"tilesetCopyright",
