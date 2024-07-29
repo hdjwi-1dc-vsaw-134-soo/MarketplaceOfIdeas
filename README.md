@@ -106,7 +106,7 @@ Map name: Student e-commerce.
 
 Map name: Study Hall A.
 
-![map](readme/study-hall-breadme.png)
+![map](readme/study-hall-b-readme.png)
 
 Map name: Study Hall B.
 
