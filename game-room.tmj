@@ -35394,7 +35394,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "game-room-chunk-1-6cbb8eb9.png",
+      "image": "game-room-chunk-1-a8cdfff6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -35870,7 +35870,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "game-room-chunk-2-6cbb8eb9.png",
+      "image": "game-room-chunk-2-a8cdfff6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -35885,7 +35885,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "game-room-chunk-3-6cbb8eb9.png",
+      "image": "game-room-chunk-3-a8cdfff6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -35900,7 +35900,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "game-room-chunk-4-6cbb8eb9.png",
+      "image": "game-room-chunk-4-a8cdfff6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -35915,7 +35915,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "game-room-chunk-5-6cbb8eb9.png",
+      "image": "game-room-chunk-5-a8cdfff6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -35930,7 +35930,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "game-room-chunk-6-6cbb8eb9.png",
+      "image": "game-room-chunk-6-a8cdfff6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -35945,7 +35945,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "game-room-chunk-7-6cbb8eb9.png",
+      "image": "game-room-chunk-7-a8cdfff6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -35960,7 +35960,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "game-room-chunk-8-6cbb8eb9.png",
+      "image": "game-room-chunk-8-a8cdfff6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -35975,7 +35975,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "game-room-chunk-9-6cbb8eb9.png",
+      "image": "game-room-chunk-9-a8cdfff6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -35990,7 +35990,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "game-room-chunk-10-6cbb8eb9.png",
+      "image": "game-room-chunk-10-a8cdfff6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -36005,7 +36005,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "game-room-chunk-11-6cbb8eb9.png",
+      "image": "game-room-chunk-11-a8cdfff6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -36020,7 +36020,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "game-room-chunk-12-6cbb8eb9.png",
+      "image": "game-room-chunk-12-a8cdfff6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -36035,7 +36035,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "game-room-chunk-13-6cbb8eb9.png",
+      "image": "game-room-chunk-13-a8cdfff6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -36050,7 +36050,7 @@
     {
       "columns": 16,
       "firstgid": 3329,
-      "image": "game-room-chunk-14-6cbb8eb9.png",
+      "image": "game-room-chunk-14-a8cdfff6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -36065,7 +36065,7 @@
     {
       "columns": 16,
       "firstgid": 3585,
-      "image": "game-room-chunk-15-6cbb8eb9.png",
+      "image": "game-room-chunk-15-a8cdfff6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -36080,7 +36080,7 @@
     {
       "columns": 16,
       "firstgid": 3841,
-      "image": "game-room-chunk-16-6cbb8eb9.png",
+      "image": "game-room-chunk-16-a8cdfff6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -36095,7 +36095,7 @@
     {
       "columns": 16,
       "firstgid": 4097,
-      "image": "game-room-chunk-17-6cbb8eb9.png",
+      "image": "game-room-chunk-17-a8cdfff6.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -36110,7 +36110,7 @@
     {
       "columns": 12,
       "firstgid": 4353,
-      "image": "game-room-chunk-18-6cbb8eb9.png",
+      "image": "game-room-chunk-18-a8cdfff6.png",
       "imageheight": 384,
       "imagewidth": 384,
       "margin": 0,
@@ -36135,6 +36135,11 @@
       "name": "mapCopyright",
       "type": "string",
       "value": "Marketplace of Ideas is the sole property of 100 Roads Design LLC. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Design LLC."
+    },
+    {
+      "name": "mapDescription",
+      "type": "string",
+      "value": "Marketplace of Ideas maps are the sole property of 100 Roads Design LLC. All rights are reserved by 100 Roads Design LLC. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Design LLC."
     },
     {
       "name": "mapImage",

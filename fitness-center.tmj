@@ -18834,7 +18834,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "fitness-center-chunk-1-e30f71b7.png",
+      "image": "fitness-center-chunk-1-7ab6877e.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -18990,7 +18990,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "fitness-center-chunk-2-e30f71b7.png",
+      "image": "fitness-center-chunk-2-7ab6877e.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19005,7 +19005,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "fitness-center-chunk-3-e30f71b7.png",
+      "image": "fitness-center-chunk-3-7ab6877e.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19020,7 +19020,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "fitness-center-chunk-4-e30f71b7.png",
+      "image": "fitness-center-chunk-4-7ab6877e.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19035,7 +19035,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "fitness-center-chunk-5-e30f71b7.png",
+      "image": "fitness-center-chunk-5-7ab6877e.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19050,7 +19050,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "fitness-center-chunk-6-e30f71b7.png",
+      "image": "fitness-center-chunk-6-7ab6877e.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19065,7 +19065,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "fitness-center-chunk-7-e30f71b7.png",
+      "image": "fitness-center-chunk-7-7ab6877e.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19080,7 +19080,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "fitness-center-chunk-8-e30f71b7.png",
+      "image": "fitness-center-chunk-8-7ab6877e.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19095,7 +19095,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "fitness-center-chunk-9-e30f71b7.png",
+      "image": "fitness-center-chunk-9-7ab6877e.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19110,7 +19110,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "fitness-center-chunk-10-e30f71b7.png",
+      "image": "fitness-center-chunk-10-7ab6877e.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19125,7 +19125,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "fitness-center-chunk-11-e30f71b7.png",
+      "image": "fitness-center-chunk-11-7ab6877e.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19140,7 +19140,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "fitness-center-chunk-12-e30f71b7.png",
+      "image": "fitness-center-chunk-12-7ab6877e.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19155,7 +19155,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "fitness-center-chunk-13-e30f71b7.png",
+      "image": "fitness-center-chunk-13-7ab6877e.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19170,7 +19170,7 @@
     {
       "columns": 16,
       "firstgid": 3329,
-      "image": "fitness-center-chunk-14-e30f71b7.png",
+      "image": "fitness-center-chunk-14-7ab6877e.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19185,7 +19185,7 @@
     {
       "columns": 16,
       "firstgid": 3585,
-      "image": "fitness-center-chunk-15-e30f71b7.png",
+      "image": "fitness-center-chunk-15-7ab6877e.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19200,7 +19200,7 @@
     {
       "columns": 16,
       "firstgid": 3841,
-      "image": "fitness-center-chunk-16-e30f71b7.png",
+      "image": "fitness-center-chunk-16-7ab6877e.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -19215,7 +19215,7 @@
     {
       "columns": 11,
       "firstgid": 4097,
-      "image": "fitness-center-chunk-17-e30f71b7.png",
+      "image": "fitness-center-chunk-17-7ab6877e.png",
       "imageheight": 352,
       "imagewidth": 352,
       "margin": 0,
@@ -19240,6 +19240,11 @@
       "name": "mapCopyright",
       "type": "string",
       "value": "Marketplace of Ideas is the sole property of 100 Roads Design LLC. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Design LLC."
+    },
+    {
+      "name": "mapDescription",
+      "type": "string",
+      "value": "Marketplace of Ideas maps are the sole property of 100 Roads Design LLC. All rights are reserved by 100 Roads Design LLC. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Design LLC."
     },
     {
       "name": "mapImage",

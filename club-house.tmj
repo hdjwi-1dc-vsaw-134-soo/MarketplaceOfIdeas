@@ -15257,7 +15257,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "club-house-chunk-1-e79c0550.png",
+      "image": "club-house-chunk-1-033a3fed.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15373,7 +15373,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "club-house-chunk-2-e79c0550.png",
+      "image": "club-house-chunk-2-033a3fed.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15388,7 +15388,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "club-house-chunk-3-e79c0550.png",
+      "image": "club-house-chunk-3-033a3fed.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15403,7 +15403,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "club-house-chunk-4-e79c0550.png",
+      "image": "club-house-chunk-4-033a3fed.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15418,7 +15418,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "club-house-chunk-5-e79c0550.png",
+      "image": "club-house-chunk-5-033a3fed.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15433,7 +15433,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "club-house-chunk-6-e79c0550.png",
+      "image": "club-house-chunk-6-033a3fed.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15448,7 +15448,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "club-house-chunk-7-e79c0550.png",
+      "image": "club-house-chunk-7-033a3fed.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15463,7 +15463,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "club-house-chunk-8-e79c0550.png",
+      "image": "club-house-chunk-8-033a3fed.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15478,7 +15478,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "club-house-chunk-9-e79c0550.png",
+      "image": "club-house-chunk-9-033a3fed.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15493,7 +15493,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "club-house-chunk-10-e79c0550.png",
+      "image": "club-house-chunk-10-033a3fed.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -15508,7 +15508,7 @@
     {
       "columns": 7,
       "firstgid": 2561,
-      "image": "club-house-chunk-11-e79c0550.png",
+      "image": "club-house-chunk-11-033a3fed.png",
       "imageheight": 224,
       "imagewidth": 224,
       "margin": 0,
@@ -15533,6 +15533,11 @@
       "name": "mapCopyright",
       "type": "string",
       "value": "Marketplace of Ideas is the sole property of 100 Roads Design LLC. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Design LLC."
+    },
+    {
+      "name": "mapDescription",
+      "type": "string",
+      "value": "Marketplace of Ideas maps are the sole property of 100 Roads Design LLC. All rights are reserved by 100 Roads Design LLC. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Design LLC."
     },
     {
       "name": "mapImage",

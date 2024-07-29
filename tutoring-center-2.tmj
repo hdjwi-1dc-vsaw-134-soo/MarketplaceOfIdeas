@@ -25097,7 +25097,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "tutoring-center-2-chunk-1-18c7b751.png",
+      "image": "tutoring-center-2-chunk-1-c1bdec11.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -25213,7 +25213,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "tutoring-center-2-chunk-2-18c7b751.png",
+      "image": "tutoring-center-2-chunk-2-c1bdec11.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -25228,7 +25228,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "tutoring-center-2-chunk-3-18c7b751.png",
+      "image": "tutoring-center-2-chunk-3-c1bdec11.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -25243,7 +25243,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "tutoring-center-2-chunk-4-18c7b751.png",
+      "image": "tutoring-center-2-chunk-4-c1bdec11.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -25258,7 +25258,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "tutoring-center-2-chunk-5-18c7b751.png",
+      "image": "tutoring-center-2-chunk-5-c1bdec11.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -25273,7 +25273,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "tutoring-center-2-chunk-6-18c7b751.png",
+      "image": "tutoring-center-2-chunk-6-c1bdec11.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -25288,7 +25288,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "tutoring-center-2-chunk-7-18c7b751.png",
+      "image": "tutoring-center-2-chunk-7-c1bdec11.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -25303,7 +25303,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "tutoring-center-2-chunk-8-18c7b751.png",
+      "image": "tutoring-center-2-chunk-8-c1bdec11.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -25318,7 +25318,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "tutoring-center-2-chunk-9-18c7b751.png",
+      "image": "tutoring-center-2-chunk-9-c1bdec11.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -25333,7 +25333,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "tutoring-center-2-chunk-10-18c7b751.png",
+      "image": "tutoring-center-2-chunk-10-c1bdec11.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -25348,7 +25348,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "tutoring-center-2-chunk-11-18c7b751.png",
+      "image": "tutoring-center-2-chunk-11-c1bdec11.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -25363,7 +25363,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "tutoring-center-2-chunk-12-18c7b751.png",
+      "image": "tutoring-center-2-chunk-12-c1bdec11.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -25378,7 +25378,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "tutoring-center-2-chunk-13-18c7b751.png",
+      "image": "tutoring-center-2-chunk-13-c1bdec11.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -25393,7 +25393,7 @@
     {
       "columns": 16,
       "firstgid": 3329,
-      "image": "tutoring-center-2-chunk-14-18c7b751.png",
+      "image": "tutoring-center-2-chunk-14-c1bdec11.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -25408,7 +25408,7 @@
     {
       "columns": 7,
       "firstgid": 3585,
-      "image": "tutoring-center-2-chunk-15-18c7b751.png",
+      "image": "tutoring-center-2-chunk-15-c1bdec11.png",
       "imageheight": 224,
       "imagewidth": 224,
       "margin": 0,
@@ -25433,6 +25433,11 @@
       "name": "mapCopyright",
       "type": "string",
       "value": "Marketplace of Ideas is the sole property of 100 Roads Design LLC. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Design LLC."
+    },
+    {
+      "name": "mapDescription",
+      "type": "string",
+      "value": "Marketplace of Ideas maps are the sole property of 100 Roads Design LLC. All rights are reserved by 100 Roads Design LLC. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Design LLC."
     },
     {
       "name": "mapImage",

@@ -28899,7 +28899,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "cranberry-dorm-chunk-1-e550ca64.png",
+      "image": "cranberry-dorm-chunk-1-0e6a4322.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -29065,7 +29065,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "cranberry-dorm-chunk-2-e550ca64.png",
+      "image": "cranberry-dorm-chunk-2-0e6a4322.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -29080,7 +29080,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "cranberry-dorm-chunk-3-e550ca64.png",
+      "image": "cranberry-dorm-chunk-3-0e6a4322.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -29095,7 +29095,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "cranberry-dorm-chunk-4-e550ca64.png",
+      "image": "cranberry-dorm-chunk-4-0e6a4322.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -29110,7 +29110,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "cranberry-dorm-chunk-5-e550ca64.png",
+      "image": "cranberry-dorm-chunk-5-0e6a4322.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -29125,7 +29125,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "cranberry-dorm-chunk-6-e550ca64.png",
+      "image": "cranberry-dorm-chunk-6-0e6a4322.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -29140,7 +29140,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "cranberry-dorm-chunk-7-e550ca64.png",
+      "image": "cranberry-dorm-chunk-7-0e6a4322.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -29155,7 +29155,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "cranberry-dorm-chunk-8-e550ca64.png",
+      "image": "cranberry-dorm-chunk-8-0e6a4322.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -29170,7 +29170,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "cranberry-dorm-chunk-9-e550ca64.png",
+      "image": "cranberry-dorm-chunk-9-0e6a4322.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -29185,7 +29185,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "cranberry-dorm-chunk-10-e550ca64.png",
+      "image": "cranberry-dorm-chunk-10-0e6a4322.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -29200,7 +29200,7 @@
     {
       "columns": 12,
       "firstgid": 2561,
-      "image": "cranberry-dorm-chunk-11-e550ca64.png",
+      "image": "cranberry-dorm-chunk-11-0e6a4322.png",
       "imageheight": 384,
       "imagewidth": 384,
       "margin": 0,
@@ -29225,6 +29225,11 @@
       "name": "mapCopyright",
       "type": "string",
       "value": "Marketplace of Ideas is the sole property of 100 Roads Design LLC. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Design LLC."
+    },
+    {
+      "name": "mapDescription",
+      "type": "string",
+      "value": "Marketplace of Ideas maps are the sole property of 100 Roads Design LLC. All rights are reserved by 100 Roads Design LLC. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Design LLC."
     },
     {
       "name": "mapImage",

@@ -24121,7 +24121,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "blue-sky-studios-chunk-1-3abaacb9.png",
+      "image": "blue-sky-studios-chunk-1-ef8603f3.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24357,7 +24357,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "blue-sky-studios-chunk-2-3abaacb9.png",
+      "image": "blue-sky-studios-chunk-2-ef8603f3.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24372,7 +24372,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "blue-sky-studios-chunk-3-3abaacb9.png",
+      "image": "blue-sky-studios-chunk-3-ef8603f3.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24387,7 +24387,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "blue-sky-studios-chunk-4-3abaacb9.png",
+      "image": "blue-sky-studios-chunk-4-ef8603f3.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24402,7 +24402,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "blue-sky-studios-chunk-5-3abaacb9.png",
+      "image": "blue-sky-studios-chunk-5-ef8603f3.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24417,7 +24417,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "blue-sky-studios-chunk-6-3abaacb9.png",
+      "image": "blue-sky-studios-chunk-6-ef8603f3.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24432,7 +24432,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "blue-sky-studios-chunk-7-3abaacb9.png",
+      "image": "blue-sky-studios-chunk-7-ef8603f3.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24447,7 +24447,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "blue-sky-studios-chunk-8-3abaacb9.png",
+      "image": "blue-sky-studios-chunk-8-ef8603f3.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24462,7 +24462,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "blue-sky-studios-chunk-9-3abaacb9.png",
+      "image": "blue-sky-studios-chunk-9-ef8603f3.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24477,7 +24477,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "blue-sky-studios-chunk-10-3abaacb9.png",
+      "image": "blue-sky-studios-chunk-10-ef8603f3.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24492,7 +24492,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "blue-sky-studios-chunk-11-3abaacb9.png",
+      "image": "blue-sky-studios-chunk-11-ef8603f3.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24507,7 +24507,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "blue-sky-studios-chunk-12-3abaacb9.png",
+      "image": "blue-sky-studios-chunk-12-ef8603f3.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24522,7 +24522,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "blue-sky-studios-chunk-13-3abaacb9.png",
+      "image": "blue-sky-studios-chunk-13-ef8603f3.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24537,7 +24537,7 @@
     {
       "columns": 16,
       "firstgid": 3329,
-      "image": "blue-sky-studios-chunk-14-3abaacb9.png",
+      "image": "blue-sky-studios-chunk-14-ef8603f3.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -24552,7 +24552,7 @@
     {
       "columns": 11,
       "firstgid": 3585,
-      "image": "blue-sky-studios-chunk-15-3abaacb9.png",
+      "image": "blue-sky-studios-chunk-15-ef8603f3.png",
       "imageheight": 352,
       "imagewidth": 352,
       "margin": 0,
@@ -24577,6 +24577,11 @@
       "name": "mapCopyright",
       "type": "string",
       "value": "Marketplace of Ideas is the sole property of 100 Roads Design LLC. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Design LLC."
+    },
+    {
+      "name": "mapDescription",
+      "type": "string",
+      "value": "Marketplace of Ideas maps are the sole property of 100 Roads Design LLC. All rights are reserved by 100 Roads Design LLC. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Design LLC."
     },
     {
       "name": "mapImage",

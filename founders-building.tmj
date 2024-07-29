@@ -22313,7 +22313,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "founders-building-chunk-1-fe7295f5.png",
+      "image": "founders-building-chunk-1-d992ed8f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -22669,7 +22669,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "founders-building-chunk-2-fe7295f5.png",
+      "image": "founders-building-chunk-2-d992ed8f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -22684,7 +22684,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "founders-building-chunk-3-fe7295f5.png",
+      "image": "founders-building-chunk-3-d992ed8f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -22699,7 +22699,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "founders-building-chunk-4-fe7295f5.png",
+      "image": "founders-building-chunk-4-d992ed8f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -22714,7 +22714,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "founders-building-chunk-5-fe7295f5.png",
+      "image": "founders-building-chunk-5-d992ed8f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -22729,7 +22729,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "founders-building-chunk-6-fe7295f5.png",
+      "image": "founders-building-chunk-6-d992ed8f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -22744,7 +22744,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "founders-building-chunk-7-fe7295f5.png",
+      "image": "founders-building-chunk-7-d992ed8f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -22759,7 +22759,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "founders-building-chunk-8-fe7295f5.png",
+      "image": "founders-building-chunk-8-d992ed8f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -22774,7 +22774,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "founders-building-chunk-9-fe7295f5.png",
+      "image": "founders-building-chunk-9-d992ed8f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -22789,7 +22789,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "founders-building-chunk-10-fe7295f5.png",
+      "image": "founders-building-chunk-10-d992ed8f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -22804,7 +22804,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "founders-building-chunk-11-fe7295f5.png",
+      "image": "founders-building-chunk-11-d992ed8f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -22819,7 +22819,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "founders-building-chunk-12-fe7295f5.png",
+      "image": "founders-building-chunk-12-d992ed8f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -22834,7 +22834,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "founders-building-chunk-13-fe7295f5.png",
+      "image": "founders-building-chunk-13-d992ed8f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -22849,7 +22849,7 @@
     {
       "columns": 16,
       "firstgid": 3329,
-      "image": "founders-building-chunk-14-fe7295f5.png",
+      "image": "founders-building-chunk-14-d992ed8f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -22864,7 +22864,7 @@
     {
       "columns": 16,
       "firstgid": 3585,
-      "image": "founders-building-chunk-15-fe7295f5.png",
+      "image": "founders-building-chunk-15-d992ed8f.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -22889,6 +22889,11 @@
       "name": "mapCopyright",
       "type": "string",
       "value": "Marketplace of Ideas is the sole property of 100 Roads Design LLC. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Design LLC."
+    },
+    {
+      "name": "mapDescription",
+      "type": "string",
+      "value": "Marketplace of Ideas maps are the sole property of 100 Roads Design LLC. All rights are reserved by 100 Roads Design LLC. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Design LLC."
     },
     {
       "name": "mapImage",

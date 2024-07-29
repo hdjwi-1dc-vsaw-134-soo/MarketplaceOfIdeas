@@ -40903,7 +40903,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "movie-theater-chunk-1-8694c477.png",
+      "image": "movie-theater-chunk-1-dbae65e4.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41099,7 +41099,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "movie-theater-chunk-2-8694c477.png",
+      "image": "movie-theater-chunk-2-dbae65e4.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41114,7 +41114,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "movie-theater-chunk-3-8694c477.png",
+      "image": "movie-theater-chunk-3-dbae65e4.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41129,7 +41129,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "movie-theater-chunk-4-8694c477.png",
+      "image": "movie-theater-chunk-4-dbae65e4.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41144,7 +41144,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "movie-theater-chunk-5-8694c477.png",
+      "image": "movie-theater-chunk-5-dbae65e4.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41159,7 +41159,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "movie-theater-chunk-6-8694c477.png",
+      "image": "movie-theater-chunk-6-dbae65e4.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41174,7 +41174,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "movie-theater-chunk-7-8694c477.png",
+      "image": "movie-theater-chunk-7-dbae65e4.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41189,7 +41189,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "movie-theater-chunk-8-8694c477.png",
+      "image": "movie-theater-chunk-8-dbae65e4.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41204,7 +41204,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "movie-theater-chunk-9-8694c477.png",
+      "image": "movie-theater-chunk-9-dbae65e4.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41219,7 +41219,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "movie-theater-chunk-10-8694c477.png",
+      "image": "movie-theater-chunk-10-dbae65e4.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41234,7 +41234,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "movie-theater-chunk-11-8694c477.png",
+      "image": "movie-theater-chunk-11-dbae65e4.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41249,7 +41249,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "movie-theater-chunk-12-8694c477.png",
+      "image": "movie-theater-chunk-12-dbae65e4.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41264,7 +41264,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "movie-theater-chunk-13-8694c477.png",
+      "image": "movie-theater-chunk-13-dbae65e4.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41279,7 +41279,7 @@
     {
       "columns": 16,
       "firstgid": 3329,
-      "image": "movie-theater-chunk-14-8694c477.png",
+      "image": "movie-theater-chunk-14-dbae65e4.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41294,7 +41294,7 @@
     {
       "columns": 16,
       "firstgid": 3585,
-      "image": "movie-theater-chunk-15-8694c477.png",
+      "image": "movie-theater-chunk-15-dbae65e4.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41309,7 +41309,7 @@
     {
       "columns": 16,
       "firstgid": 3841,
-      "image": "movie-theater-chunk-16-8694c477.png",
+      "image": "movie-theater-chunk-16-dbae65e4.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41324,7 +41324,7 @@
     {
       "columns": 16,
       "firstgid": 4097,
-      "image": "movie-theater-chunk-17-8694c477.png",
+      "image": "movie-theater-chunk-17-dbae65e4.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -41339,7 +41339,7 @@
     {
       "columns": 12,
       "firstgid": 4353,
-      "image": "movie-theater-chunk-18-8694c477.png",
+      "image": "movie-theater-chunk-18-dbae65e4.png",
       "imageheight": 384,
       "imagewidth": 384,
       "margin": 0,
@@ -41364,6 +41364,11 @@
       "name": "mapCopyright",
       "type": "string",
       "value": "Marketplace of Ideas is the sole property of 100 Roads Design LLC. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Design LLC."
+    },
+    {
+      "name": "mapDescription",
+      "type": "string",
+      "value": "Marketplace of Ideas maps are the sole property of 100 Roads Design LLC. All rights are reserved by 100 Roads Design LLC. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Design LLC."
     },
     {
       "name": "mapImage",

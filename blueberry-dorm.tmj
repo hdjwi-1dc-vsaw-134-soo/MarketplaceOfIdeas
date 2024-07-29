@@ -31270,7 +31270,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "blueberry-dorm-chunk-1-d3a4dedf.png",
+      "image": "blueberry-dorm-chunk-1-3ac19204.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -31386,7 +31386,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "blueberry-dorm-chunk-2-d3a4dedf.png",
+      "image": "blueberry-dorm-chunk-2-3ac19204.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -31401,7 +31401,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "blueberry-dorm-chunk-3-d3a4dedf.png",
+      "image": "blueberry-dorm-chunk-3-3ac19204.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -31416,7 +31416,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "blueberry-dorm-chunk-4-d3a4dedf.png",
+      "image": "blueberry-dorm-chunk-4-3ac19204.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -31431,7 +31431,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "blueberry-dorm-chunk-5-d3a4dedf.png",
+      "image": "blueberry-dorm-chunk-5-3ac19204.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -31446,7 +31446,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "blueberry-dorm-chunk-6-d3a4dedf.png",
+      "image": "blueberry-dorm-chunk-6-3ac19204.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -31461,7 +31461,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "blueberry-dorm-chunk-7-d3a4dedf.png",
+      "image": "blueberry-dorm-chunk-7-3ac19204.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -31476,7 +31476,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "blueberry-dorm-chunk-8-d3a4dedf.png",
+      "image": "blueberry-dorm-chunk-8-3ac19204.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -31491,7 +31491,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "blueberry-dorm-chunk-9-d3a4dedf.png",
+      "image": "blueberry-dorm-chunk-9-3ac19204.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -31506,7 +31506,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "blueberry-dorm-chunk-10-d3a4dedf.png",
+      "image": "blueberry-dorm-chunk-10-3ac19204.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -31521,7 +31521,7 @@
     {
       "columns": 12,
       "firstgid": 2561,
-      "image": "blueberry-dorm-chunk-11-d3a4dedf.png",
+      "image": "blueberry-dorm-chunk-11-3ac19204.png",
       "imageheight": 384,
       "imagewidth": 384,
       "margin": 0,
@@ -31546,6 +31546,11 @@
       "name": "mapCopyright",
       "type": "string",
       "value": "Marketplace of Ideas is the sole property of 100 Roads Design LLC. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Design LLC."
+    },
+    {
+      "name": "mapDescription",
+      "type": "string",
+      "value": "Marketplace of Ideas maps are the sole property of 100 Roads Design LLC. All rights are reserved by 100 Roads Design LLC. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Design LLC."
     },
     {
       "name": "mapImage",

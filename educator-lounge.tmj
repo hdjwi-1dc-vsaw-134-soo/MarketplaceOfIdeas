@@ -13457,7 +13457,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "educator-lounge-chunk-1-ba145fd8.png",
+      "image": "educator-lounge-chunk-1-a18692bf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13693,7 +13693,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "educator-lounge-chunk-2-ba145fd8.png",
+      "image": "educator-lounge-chunk-2-a18692bf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13708,7 +13708,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "educator-lounge-chunk-3-ba145fd8.png",
+      "image": "educator-lounge-chunk-3-a18692bf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13723,7 +13723,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "educator-lounge-chunk-4-ba145fd8.png",
+      "image": "educator-lounge-chunk-4-a18692bf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13738,7 +13738,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "educator-lounge-chunk-5-ba145fd8.png",
+      "image": "educator-lounge-chunk-5-a18692bf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13753,7 +13753,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "educator-lounge-chunk-6-ba145fd8.png",
+      "image": "educator-lounge-chunk-6-a18692bf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13768,7 +13768,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "educator-lounge-chunk-7-ba145fd8.png",
+      "image": "educator-lounge-chunk-7-a18692bf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13783,7 +13783,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "educator-lounge-chunk-8-ba145fd8.png",
+      "image": "educator-lounge-chunk-8-a18692bf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13798,7 +13798,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "educator-lounge-chunk-9-ba145fd8.png",
+      "image": "educator-lounge-chunk-9-a18692bf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13813,7 +13813,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "educator-lounge-chunk-10-ba145fd8.png",
+      "image": "educator-lounge-chunk-10-a18692bf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13828,7 +13828,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "educator-lounge-chunk-11-ba145fd8.png",
+      "image": "educator-lounge-chunk-11-a18692bf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13843,7 +13843,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "educator-lounge-chunk-12-ba145fd8.png",
+      "image": "educator-lounge-chunk-12-a18692bf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13858,7 +13858,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "educator-lounge-chunk-13-ba145fd8.png",
+      "image": "educator-lounge-chunk-13-a18692bf.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -13873,7 +13873,7 @@
     {
       "columns": 5,
       "firstgid": 3329,
-      "image": "educator-lounge-chunk-14-ba145fd8.png",
+      "image": "educator-lounge-chunk-14-a18692bf.png",
       "imageheight": 160,
       "imagewidth": 160,
       "margin": 0,
@@ -13898,6 +13898,11 @@
       "name": "mapCopyright",
       "type": "string",
       "value": "Marketplace of Ideas is the sole property of 100 Roads Design LLC. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Design LLC."
+    },
+    {
+      "name": "mapDescription",
+      "type": "string",
+      "value": "Marketplace of Ideas maps are the sole property of 100 Roads Design LLC. All rights are reserved by 100 Roads Design LLC. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Design LLC."
     },
     {
       "name": "mapImage",
