@@ -110,7 +110,7 @@ Map name: Study Hall A.
 
 Map name: Study Hall B.
 
-![map](readme/Tunnel-readme.png)
+![map](readme/tunnel-readme.png)
 
 Map name: Tunnel.
 
